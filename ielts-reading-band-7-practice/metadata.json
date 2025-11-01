@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Reading Band 7 Practice",
+  "description": "An application to help students practice for the IELTS Academic Reading test, targeting a Band 7 score. It features 10 passages with 40 mixed-type questions and provides a final score out of 10.",
+  "requestFramePermissions": []
+}
